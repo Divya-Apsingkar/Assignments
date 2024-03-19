@@ -1,0 +1,19 @@
+body
+{
+background-color:Orange;
+}
+h1
+{
+color:black;
+font-family:verdana;
+font-size:100
+}
+p
+{
+color:black;
+font-family:courier;
+font-size:150%
+padding:30px;
+margin:30px;
+border:2px solid black;
+}
